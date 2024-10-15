@@ -1,0 +1,43 @@
+/* Typography */
+
+// Text preset 1
+$text-preset-1: 32px;
+$text-preset-2: 20px;
+$text-preset-3: 16px;
+$text-preset-4: 14px;
+$text-preset-5: 12px;
+
+h1 {
+  font-size: px-to-rem($text-preset-1);
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: px-to-rem($text-preset-2);
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: px-to-rem($text-preset-3);
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: px-to-rem($text-preset-4);
+  line-height: 1.5;
+}
+
+h5 {
+  font-size: px-to-rem($text-preset-5);
+  line-height: 1.5;
+}
+
+.text-preset-4-regular {
+  font-size: px-to-rem($text-preset-4);
+  line-height: 1.5;
+}
+
+.text-preset-5-regular {
+  font-size: px-to-rem($text-preset-5);
+  line-height: 1.5;
+}

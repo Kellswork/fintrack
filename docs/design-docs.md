@@ -61,7 +61,7 @@ We're going to build the Finance Web Application as a monolothic server-side ren
 
 ### Technology Stack
 
-- **Frontend**: React, Next.js, TypeScript, Redux, TanStack Query, Material UI
+- **Frontend**: React, Next.js, TypeScript, Redux, TanStack Query, SCSS, Material UI
 - **Backend**: Golang
 - **Deployment**: AWS infrastructure or Netlify or Vercel ?
 
